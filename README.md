@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShoppingCartzidan
 Tugas membuat Shopping Cart menggunakan Flutter
 
@@ -57,3 +58,8 @@ Digunakan untuk mengubah angka menjadi format mata uang Rupiah (Rp).
 #### Nama : Zidan Daffa Ramadhan
 #### Kelas: Sistem Informasi B 2024
 #### NIM  : 2409116056
+=======
+# shoppingcartzidan
+
+A new Flutter project.
+>>>>>>> 999cec1 (first commit)
